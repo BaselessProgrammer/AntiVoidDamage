@@ -1,7 +1,6 @@
 # AntiVoidDamage
 
-AntiVoidDamage is a lightweight PocketMine-MP plugin that prevents players from taking void damage when they fall below a configurable Y-level.  
-(Keep your players safe from unexpected void damage in flat worlds or custom maps!)
+AntiVoidDamage is a lightweight PocketMine-MP plugin that prevents players from taking void damage when they fall below a configurable Y-level. (Keep your players safe from unexpected void damage in flat worlds or custom maps!)
 
 ## Features
 
