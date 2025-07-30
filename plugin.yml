@@ -1,0 +1,6 @@
+name: AntiVoidDamage
+version: 1.0.0
+main: KianRastegar\AntiVoidDamage\Main
+api: 5.0.0
+author: KianRastegar
+description: Prevents players from taking void damage below a configurable Y level.
