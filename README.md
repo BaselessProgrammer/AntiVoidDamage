@@ -5,8 +5,6 @@ Prevents void damage to players below a specified Y coordinate in PocketMine-MP.
 ## Features
 
 - Cancels void damage below a configurable Y coordinate (default: 40)  
-- Simple and efficient  
-- Easy to use and lightweight
 
 ## Installation
 
